@@ -1,7 +1,8 @@
 <!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
 <div align="center">
-<img src="./assets/header.svg" alt="Alejandro Steinman - SteinDevlop" width="100%"/>
+<img src="./header.svg" alt="Alejandro Steinman - SteinDevlop" width="100%"/>
 <br/>
+
 ![Followers](https://img.shields.io/github/followers/SteinDevlop?label=Followers&style=for-the-badge&logo=github&color=6d28d9&labelColor=1e1e2e)
 ![Repos](https://img.shields.io/badge/Repositories-17-5b21b6?style=for-the-badge&logo=git&logoColor=white&labelColor=1e1e2e)
  
@@ -82,7 +83,6 @@ I'm a student who learns by **building**. My projects range from mobile and web 
  
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" alt="databases"/>
 </div>
-> 💡 *Tip: edit the icon lists above to match exactly what you use — see the full icon list at [skillicons.dev](https://skillicons.dev).*
  
 ---
  
@@ -120,6 +120,6 @@ I'm a student who learns by **building**. My projects range from mobile and web 
 <div align="center">
 *"Code is like humor. When you have to explain it, it's bad."*
  
-<img src="./assets/footer.svg" alt="footer" width="100%"/>
+<img src="./footer.svg" alt="footer" width="100%"/>
 </div>
  
