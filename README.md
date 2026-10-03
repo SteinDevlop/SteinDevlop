@@ -73,12 +73,15 @@ I'm a student who learns by **building**. My projects range from mobile and web 
 ## 🛠️ Tech Stack
  
 <div align="center">
+ 
 **Languages**
  
 <img src="https://skillicons.dev/icons?i=dart,python,js,ts,html,css,java,cpp,sql&theme=dark" alt="languages"/>
+
 **Frameworks & Tools**
  
 <img src="https://skillicons.dev/icons?i=flutter,fastapi,nodejs,react,git,github,docker,linux,vscode&theme=dark" alt="tools"/>
+
 **Databases & Cloud**
  
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" alt="databases"/>
